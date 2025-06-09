@@ -47,7 +47,7 @@ Hi, I’m Muthusamy T., a passionate and hardworking cybersecurity student curre
 
 ---
 
-### 📫 Connect With Me
+### 🤝 Connect With Me
 
 - Email: [t.muthusamy.domain@gmail.com]
 - GitHub: [github.com/muthu-23]
