@@ -36,6 +36,7 @@ Hi, I'm Muthusamy T., a passionate and hardworking cybersecurity student current
 ## 📜 Certifications
 
 - Introduction to Cybersecurity – Cisco Networking Academy
+- Network defense - Cisco Networking Academy
 - Advanced Cybersecurity – Great Learning  
 - Communication Skills – TCS iON  
 - Certificate of Appreciation – Ministry of Electronics & IT  
