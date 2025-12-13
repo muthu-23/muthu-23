@@ -55,7 +55,7 @@ Hi, I'm Muthusamy T., a passionate and hardworking cybersecurity student current
 
 ## 🤝 Connect With Me
 
-- 📧 Email: [t.muthusamy.domain@gmail.com](mailto:t.muthusamy.domain@gmail.com)  
+- 📧 Email: [t.muthusamy.cyber@gmail.com](mailto:t.muthusamy.domain@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/muthusamy-t](https://www.linkedin.com/in/muthusamy-t)  
 - 🛠 GitHub: [github.com/muthu-23](https://github.com/muthu-23)
 
