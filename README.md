@@ -1,8 +1,7 @@
 👨‍💻 Muthusamy T.
 ---
 
-*Cybersecurity Student | Ethical Hacking Enthusiast | Python Developer*  
-📍 Chennai, Tamil Nadu, India | 🎓 Vels University | 🛡 B.Sc. computer science ( Cybersecurity (Final Year) )
+*Cybersecurity Student | Ethical Hacking Enthusiast | 📍 Chennai, Tamil Nadu, India | 🎓 Vels University | 🛡 B.Sc. computer science ( Cybersecurity (Final Year) )
 
 ---
 
@@ -15,7 +14,7 @@ Hi, I'm Muthusamy T., a passionate and hardworking cybersecurity student current
 ## 🧠 Skills 
 
 - *Programming*: Python
-- *Database*:SQL  
+- *Database*: SQL  
 - *Soft Skills*: Communication, Problem-solving, Teamwork
 
 ---
