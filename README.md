@@ -19,6 +19,13 @@ Hi, I'm Muthusamy T., a passionate and hardworking cybersecurity student current
 
 ---
 
+## 🖥️ Internship 
+
+- Title: Ethical Hacking
+Organization: Jutrm Career Academy
+
+---
+
 ## 📜 Certifications
 
 - Introduction to Cybersecurity – Cisco Networking Academy
