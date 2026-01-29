@@ -22,7 +22,8 @@ Hi, I'm Muthusamy T., a passionate and hardworking cybersecurity student current
 ## 🖥️ Internship 
 
 - Title: Ethical Hacking Internship 
-Organization: Jutrm Career Academy
+
+  Organization: Jutrm Career Academy
 
 ---
 
