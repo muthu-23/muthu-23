@@ -27,6 +27,15 @@ Hi, I'm Muthusamy T., a passionate and hardworking cybersecurity student current
 
 ---
 
+## 📌 Projects 
+
+- *Smart Log Attack Analyzer*
+  A Python-based cybersecurity tool that analyzes SSH authentication logs to detect brute force attacks and account compromise using time-based analysis and structured JSON reporting.
+
+- *Website Vulnerability Scanner*
+  A Python-based web vulnerability scanner that analyzes websites for common security issues such as insecure HTTP usage, exposed form inputs, and potential XSS risks, with a user-friendly web interface and automated reporting.
+
+
 ## 📜 Certifications
 
 - Introduction to Cybersecurity – Cisco Networking Academy
@@ -42,7 +51,7 @@ Hi, I'm Muthusamy T., a passionate and hardworking cybersecurity student current
 
 - Ethical Hacking Fundamentals  
 - CEH (Certified Ethical Hacker) Syllabus  
-- Linux for Cybersecurity  
+- kali Linux for Cybersecurity  
 
 ---
 
